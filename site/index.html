@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Buy English Art — English painters, their paintings and where they hang</title>
+<meta name="description" content="Turner, Constable, Stubbs, Gainsborough and Wright of Derby: lives, verified works and where each painting hangs. Open-edition prints coming 2027.">
+<link rel="canonical" href="https://buyenglishart.com/">
+<meta property="og:title" content="Buy English Art — English painters, their paintings and where they hang">
+<meta property="og:description" content="Turner, Constable, Stubbs, Gainsborough and Wright of Derby: lives, verified works and where each painting hangs. Open-edition prints coming 2027.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://buyenglishart.com/">
+<meta property="og:image" content="https://images.collections.yale.edu/iiif/2/ycba:4f227f08-7842-46cc-b05a-e3c6a4614cc1/full/1400,/0/default.jpg">
+<link rel="stylesheet" href="/assets/site.css">
+
+</head>
+<body>
+<header class="site"><div class="in">
+  <a class="brand" href="/">Buy English Art</a>
+  <nav><a href="/pages/artists">Artists</a><a href="/blogs/news">Journal</a><a href="/pages/about">About</a></nav>
+</div></header>
+<main>
+
+<h1>English painting, told plainly</h1>
+<p>Five painters, their best pictures, and where each one hangs. Every fact on this site is checked against the collection that holds the work. Prints follow in 2027.</p>
+<div class="grid">
+<a class="card" href="/pages/jmw-turner"><img src="https://images.collections.yale.edu/iiif/2/ycba:4f227f08-7842-46cc-b05a-e3c6a4614cc1/full/1400,/0/default.jpg" alt="Dort, or Dordrecht: The Dort Packet-Boat from Rotterdam Becalmed by J.M.W. Turner" loading="lazy"><h3>J.M.W. Turner</h3><p>1775–1851</p></a>
+<a class="card" href="/pages/john-constable"><img src="https://images.collections.yale.edu/iiif/2/ycba:6e961789-58ac-49de-a51e-5c7f268c7f5f/full/1400,/0/default.jpg" alt="Hadleigh Castle, The Mouth of the Thames — Morning after a Stormy Night by John Constable" loading="lazy"><h3>John Constable</h3><p>1776–1837</p></a>
+<a class="card" href="/pages/george-stubbs"><img src="https://images.collections.yale.edu/iiif/2/ycba:9af3e295-a373-4ee9-bdd8-dc075114e7fe/full/1400,/0/default.jpg" alt="Zebra by George Stubbs" loading="lazy"><h3>George Stubbs</h3><p>1724–1806</p></a>
+<a class="card" href="/pages/thomas-gainsborough"><img src="https://images.collections.yale.edu/iiif/2/ycba:2428ff00-684d-4e2d-862a-fd1962019ba6/full/1400,/0/default.jpg" alt="Landscape with Milkmaid by Thomas Gainsborough" loading="lazy"><h3>Thomas Gainsborough</h3><p>1727–1788</p></a>
+<a class="card" href="/pages/joseph-wright-of-derby"><img src="https://images.collections.yale.edu/iiif/2/ycba:335ade96-cd79-4be0-bd5c-add8f8bd3858/full/1400,/0/default.jpg" alt="The Blacksmith&#x27;s Shop by Joseph Wright of Derby" loading="lazy"><h3>Joseph Wright of Derby</h3><p>1734–1797</p></a></div>
+<h2>From the journal</h2>
+<ul><li><a href="/blogs/news/why-the-best-english-paintings-hang-in-connecticut">Why so much of the best English painting hangs in Connecticut</a></li></ul>
+
+
+<section class="signup">
+  <h2>When the prints are ready</h2>
+  <p>Buy English Art opens in 2027 with open-edition prints of the paintings on this site. One email when it does, and a story about a painting now and then. No offers, no noise.</p>
+  <form id="bea-signup" onsubmit="return beaSub(event)">
+    <input type="email" name="email" required placeholder="Your email" aria-label="Email address">
+    <button type="submit">Keep me posted</button>
+  </form>
+  <div class="ok" id="bea-ok">Thank you — you are on the list.</div>
+</section>
+<script>
+function beaSub(e){e.preventDefault();var f=e.target,em=f.email.value;
+var body={data:{type:"subscription",attributes:{profile:{data:{type:"profile",attributes:{email:em}}},custom_source:"buyenglishart.com early list"},relationships:{list:{data:{type:"list",id:"TQeMdY"}}}}};
+fetch("https://a.klaviyo.com/client/subscriptions/?company_id=Rk2YCF",{method:"POST",headers:{"Content-Type":"application/json","revision":"2024-10-15"},body:JSON.stringify(body)})
+.then(function(){f.style.display="none";document.getElementById("bea-ok").style.display="block";})
+.catch(function(){document.getElementById("bea-ok").textContent="Something went wrong — please try again.";document.getElementById("bea-ok").style.display="block";});
+return false;}
+</script>
+
+</main>
+<footer class="site"><div class="in">
+  Buy English Art is part of the family of <a href="https://buyirishart.com">Buy Irish Art</a> and <a href="https://buyscottishart.com">Buy Scottish Art</a> · Dublin, Ireland · Images of works in the public domain are reproduced courtesy of the collections that hold them, credited beneath each one.
+</div></footer>
+</body>
+</html>

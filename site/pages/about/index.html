@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>About | Buy English Art</title>
+<meta name="description" content="What Buy English Art is, how its pages are checked, and what comes in 2027.">
+<link rel="canonical" href="https://buyenglishart.com/pages/about">
+<meta property="og:title" content="About | Buy English Art">
+<meta property="og:description" content="What Buy English Art is, how its pages are checked, and what comes in 2027.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://buyenglishart.com/pages/about">
+
+<link rel="stylesheet" href="/assets/site.css">
+
+</head>
+<body>
+<header class="site"><div class="in">
+  <a class="brand" href="/">Buy English Art</a>
+  <nav><a href="/pages/artists">Artists</a><a href="/blogs/news">Journal</a><a href="/pages/about">About</a></nav>
+</div></header>
+<main>
+
+<h1>About</h1>
+<p>Buy English Art is a reference site for English painting that will become a print shop in 2027. It is run from Dublin by the people behind Buy Irish Art, founded 2016, and Buy Scottish Art.</p>
+<p>The method is the same on every page: the works are chosen from collections that make their public-domain holdings freely available, the facts are checked against the holding collection's own record, and where a fact is contested or uncertain the page says so. Naming a gallery is a statement of where the original hangs, not a claim of endorsement.</p>
+<p>When the prints arrive they will be open edition, printed to order on archival paper, framed or unframed, and shipped worldwide.</p>
+
+
+<section class="signup">
+  <h2>When the prints are ready</h2>
+  <p>Buy English Art opens in 2027 with open-edition prints of the paintings on this site. One email when it does, and a story about a painting now and then. No offers, no noise.</p>
+  <form id="bea-signup" onsubmit="return beaSub(event)">
+    <input type="email" name="email" required placeholder="Your email" aria-label="Email address">
+    <button type="submit">Keep me posted</button>
+  </form>
+  <div class="ok" id="bea-ok">Thank you — you are on the list.</div>
+</section>
+<script>
+function beaSub(e){e.preventDefault();var f=e.target,em=f.email.value;
+var body={data:{type:"subscription",attributes:{profile:{data:{type:"profile",attributes:{email:em}}},custom_source:"buyenglishart.com early list"},relationships:{list:{data:{type:"list",id:"TQeMdY"}}}}};
+fetch("https://a.klaviyo.com/client/subscriptions/?company_id=Rk2YCF",{method:"POST",headers:{"Content-Type":"application/json","revision":"2024-10-15"},body:JSON.stringify(body)})
+.then(function(){f.style.display="none";document.getElementById("bea-ok").style.display="block";})
+.catch(function(){document.getElementById("bea-ok").textContent="Something went wrong — please try again.";document.getElementById("bea-ok").style.display="block";});
+return false;}
+</script>
+
+</main>
+<footer class="site"><div class="in">
+  Buy English Art is part of the family of <a href="https://buyirishart.com">Buy Irish Art</a> and <a href="https://buyscottishart.com">Buy Scottish Art</a> · Dublin, Ireland · Images of works in the public domain are reproduced courtesy of the collections that hold them, credited beneath each one.
+</div></footer>
+</body>
+</html>

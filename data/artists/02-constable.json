@@ -1,0 +1,96 @@
+{
+  "slug": "john-constable",
+  "name": "John Constable",
+  "dates": "1776–1837",
+  "birth": "1776-06-11",
+  "death": "1837-03-31",
+  "sameAs": ["https://en.wikipedia.org/wiki/John_Constable", "https://www.tate.org.uk/art/artists/john-constable-108"],
+  "meta": "John Constable: the miller's son who was made a Royal Academician at 52 by one vote. Five works, verified against the Yale Center for British Art.",
+  "intro": [
+    "A miller's son from the Stour valley who painted the fields he grew up in for his whole life, and was elected a full Royal Academician at fifty-two, by a single vote, three months after his wife died. The French gave him a gold medal years before London took him seriously.",
+    "The five works below hang at the Yale Center for British Art, and include the great Hadleigh Castle — the first picture he showed as an Academician, painted in grief."
+  ],
+  "life": [
+    "John Constable was born on 11 June 1776 at East Bergholt, Suffolk, where his father owned Flatford Mill. The strip of the Stour valley between Suffolk and Essex — East Bergholt, Flatford, Dedham — is the subject of nearly everything he is famous for, and has been called Constable Country since his own lifetime.",
+    "Recognition came slowly. He was elected an Associate of the Royal Academy in 1819, at forty-three, and a full Academician only in February 1829, at fifty-two, by one vote; the President, Lawrence, told him he was fortunate. In Paris it was different: The Hay Wain, shown at the 1824 Salon, was awarded a gold medal by Charles X, and the French painters studied his broken colour closely.",
+    "From a rented house at Hampstead he made around a hundred studies of clouds, noting the wind and the hour on the back of each — he called it skying. His wife Maria died in November 1828. He died in London on 31 March 1837 and was buried beside her at St John-at-Hampstead."
+  ],
+  "works": [
+    {
+      "slug": "hadleigh-castle",
+      "title": "Hadleigh Castle, The Mouth of the Thames — Morning after a Stormy Night",
+      "date": "1829",
+      "medium": "Oil on canvas",
+      "dims": "121.9 × 164.5 cm",
+      "where": "Yale Center for British Art, New Haven",
+      "credit": "Yale Center for British Art, Paul Mellon Collection, B1977.14.42",
+      "image": "https://images.collections.yale.edu/iiif/2/ycba:6e961789-58ac-49de-a51e-5c7f268c7f5f/full/1400,/0/default.jpg",
+      "text": [
+        "Constable first drew the ruined castle on a visit in 1814 and left it for fifteen years. When he finally painted it, in the winter after Maria's death, it came out like this: a broken tower on a bluff above the Thames estuary, the sky still torn from the night's storm, the light arriving grey and cold. It was the first picture he showed at the Academy as a full member, in 1829, and he wrote that he was grievously nervous about it.",
+        "The full-size sketch — rougher, and to some eyes greater — is at Tate Britain. This is the finished painting."
+      ]
+    },
+    {
+      "slug": "stratford-mill",
+      "title": "Stratford Mill",
+      "date": "1819–20",
+      "medium": "Oil on canvas",
+      "dims": "130.8 × 184.2 cm",
+      "where": "Yale Center for British Art, New Haven",
+      "credit": "Yale Center for British Art, Paul Mellon Fund, B1983.18",
+      "image": "https://images.collections.yale.edu/iiif/2/ycba:183e8b0e-23f8-474b-9edc-bb3dfb5b0b1a/full/1400,/0/default.jpg",
+      "text": [
+        "The full-size sketch for the second of Constable's six-footers, the finished version of which is in the National Gallery, London. Here he is still working things out: a boy stands fishing at the left, a figure he cut in the finished picture, handing the rod to a kneeling child instead. The paint is laid on fast and thick, with the palette knife as much as the brush.",
+        "Sketches on this scale were never meant for a public audience. That is exactly why they are prized now — they show the painter thinking."
+      ]
+    },
+    {
+      "slug": "harnham-gate",
+      "title": "Harnham Gate, Salisbury",
+      "date": "1820–21",
+      "medium": "Oil on canvas",
+      "dims": "50.8 × 50.8 cm",
+      "where": "Yale Center for British Art, New Haven",
+      "credit": "Yale Center for British Art, Paul Mellon Collection, B1981.25.126",
+      "image": "https://images.collections.yale.edu/iiif/2/ycba:37c20b98-df9b-4634-85b9-5718eb873ae6/full/1400,/0/default.jpg",
+      "text": [
+        "The gate leads out of Salisbury Cathedral Close towards the Harnham water meadows. Constable stayed in the Close with Archdeacon John Fisher, his closest friend and most loyal patron, and walked these meadows on every visit. The cathedral spire shows above the wall in autumn sun — a square canvas, unusual for him, and one of the most direct things he painted."
+      ]
+    },
+    {
+      "slug": "hampstead-heath-harrow",
+      "title": "Hampstead Heath looking towards Harrow",
+      "date": "1821–22",
+      "medium": "Oil on paper laid on canvas",
+      "dims": "29.5 × 48.3 cm",
+      "where": "Yale Center for British Art, New Haven",
+      "credit": "Yale Center for British Art, Paul Mellon Collection, B1981.25.141",
+      "image": "https://images.collections.yale.edu/iiif/2/ycba:e815eb19-96fd-465d-bc00-fae43f6e10a9/full/1400,/0/default.jpg",
+      "text": [
+        "Painted on paper out of doors in the years of the cloud studies, with Harrow on the hill at the far edge. The sky takes up most of the sheet, as it does in nearly everything he made at Hampstead; for decades the picture was catalogued as a sunset. It travelled to both venues of the 2000 exhibition Constable's Clouds."
+      ]
+    },
+    {
+      "slug": "fen-lane",
+      "title": "Fen Lane, East Bergholt",
+      "date": "c. 1811",
+      "medium": "Oil on paper laid on canvas",
+      "dims": "22.1 × 19.5 cm",
+      "where": "Yale Center for British Art, New Haven",
+      "credit": "Yale Center for British Art, Paul Mellon Collection, B1981.25.142",
+      "image": "https://images.collections.yale.edu/iiif/2/ycba:61750bf9-1c31-4a2c-89c6-542360502e35/full/1400,/0/default.jpg",
+      "text": [
+        "The lane Constable walked as a boy from East Bergholt over Fen Bridge to the grammar school in Dedham. He sketched it again and again, and this small oil on paper is one of the earliest. Nothing happens in it — a hedge, a path, a bend — which is the point. Everything he did later with the Stour starts from walking this way to school."
+      ]
+    }
+  ],
+  "sources": [
+    {"label": "Yale Center for British Art — Hadleigh Castle (B1977.14.42)", "url": "https://collections.britishart.yale.edu/catalog/tms:5001"},
+    {"label": "Yale Center for British Art — Stratford Mill (B1983.18)", "url": "https://collections.britishart.yale.edu/catalog/tms:5052"},
+    {"label": "Yale Center for British Art — Harnham Gate (B1981.25.126)", "url": "https://collections.britishart.yale.edu/catalog/tms:637"},
+    {"label": "Yale Center for British Art — Hampstead Heath looking towards Harrow (B1981.25.141)", "url": "https://collections.britishart.yale.edu/catalog/tms:652"},
+    {"label": "Yale Center for British Art — Fen Lane (B1981.25.142)", "url": "https://collections.britishart.yale.edu/catalog/tms:653"},
+    {"label": "Royal Academy — John Constable's struggle to become an Academician", "url": "https://royalacademy.org.uk/article/john-constable-struggle-royal-academician"},
+    {"label": "Tate — John Constable", "url": "https://www.tate.org.uk/art/artists/john-constable-108"}
+  ]
+}

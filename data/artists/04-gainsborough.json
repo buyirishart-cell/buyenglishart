@@ -1,0 +1,95 @@
+{
+  "slug": "thomas-gainsborough",
+  "name": "Thomas Gainsborough",
+  "dates": "1727–1788",
+  "birth": "1727-05-14",
+  "death": "1788-08-02",
+  "sameAs": ["https://en.wikipedia.org/wiki/Thomas_Gainsborough", "https://www.royalacademy.org.uk/art-artists/name/thomas-gainsborough-ra"],
+  "meta": "Thomas Gainsborough painted portraits for money and landscapes for love, and said so. Five works, verified against the Yale Center for British Art.",
+  "intro": [
+    "He was the most sought-after portrait painter in England and wished he were not. \"I'm sick of Portraits,\" he wrote, \"and wish very much to take my Viol da Gamba and walk off to some sweet village where I can paint landskips.\" The portraits paid for the landscapes, and both are here.",
+    "The five works below hang at the Yale Center for British Art: three of the landscapes he painted for himself, and two portraits of women whose names are half-lost."
+  ],
+  "life": [
+    "Thomas Gainsborough was born in Sudbury, Suffolk, and baptised there on 14 May 1727; the exact birth date was never recorded. He moved to Ipswich in 1752 and to Bath in 1759, where he took a house at 17 The Circus and painted the spa's visitors for fifteen years. In 1774 he moved to Schomberg House on Pall Mall and painted the court.",
+    "He was a founder member of the Royal Academy, elected on 10 December 1768, and fell out with it in 1784 over where his picture of the three eldest princesses was hung. He had painted it, he said, in so tender a light that it could not go above five and a half feet; the hanging committee put it higher; he took down every picture he had sent and never exhibited there again.",
+    "He died of cancer in London on 2 August 1788, aged sixty-one, and was buried at St Anne's, Kew. Reynolds, his great rival, gave the eulogy at the Academy and said that if ever this nation produced enough excellence to deserve the name of an English school, Gainsborough's name would be among its first."
+  ],
+  "works": [
+    {
+      "slug": "landscape-with-milkmaid",
+      "title": "Landscape with Milkmaid",
+      "date": "1754–56",
+      "medium": "Oil on canvas",
+      "dims": "76.2 × 101.6 cm",
+      "where": "Yale Center for British Art, New Haven",
+      "credit": "Yale Center for British Art, Paul Mellon Collection, B1981.25.292",
+      "image": "https://images.collections.yale.edu/iiif/2/ycba:2428ff00-684d-4e2d-862a-fd1962019ba6/full/1400,/0/default.jpg",
+      "text": [
+        "Painted in the Ipswich years, before Bath made him a society painter, when a landscape was still something he could do for its own sake. A milkmaid, a cow, a sandy bank, a Suffolk sky — the Dutch painters he studied as a boy are all through it, and so is the place he came from."
+      ]
+    },
+    {
+      "slug": "landscape-with-cattle",
+      "title": "Landscape with Cattle",
+      "date": "c. 1773",
+      "medium": "Oil on canvas",
+      "dims": "120 × 145.4 cm",
+      "where": "Yale Center for British Art, New Haven",
+      "credit": "Yale Center for British Art, Paul Mellon Collection, B1981.25.305",
+      "image": "https://images.collections.yale.edu/iiif/2/ycba:67a8672f-c00d-47e0-9437-ad53a9edfb92/full/1400,/0/default.jpg",
+      "text": [
+        "The end of a farm day. Evening light creeps between the trees, the cattle have come down to the water, and a milkmaid and her lover rest by the creek. Gainsborough signed it with his TG monogram at the lower right and painted it around 1773, the last year of Bath before Pall Mall — a four-foot landscape made entirely for pleasure, in the middle of the busiest portrait practice in England."
+      ]
+    },
+    {
+      "slug": "mountain-valley",
+      "title": "Mountain Valley with Figures and Distant Village",
+      "date": "1773–77",
+      "medium": "Oil on canvas",
+      "dims": "121.9 × 149.2 cm",
+      "where": "Yale Center for British Art, New Haven",
+      "credit": "Yale Center for British Art, Paul Mellon Collection, B1981.25.295",
+      "image": "https://images.collections.yale.edu/iiif/2/ycba:d232674e-b3f4-49e5-88a8-330763721e42/full/1400,/0/default.jpg",
+      "text": [
+        "There is no such valley. Gainsborough built his late landscapes on a table in the studio from broken stones, moss and bits of looking-glass, then painted the arrangement as if it were a view. This one, four feet high, was made as he moved from Bath to London — an invented country with a village at the end of it, and travellers on the road who are never going to arrive."
+      ]
+    },
+    {
+      "slug": "an-unknown-woman",
+      "title": "An Unknown Woman",
+      "date": "c. 1750",
+      "medium": "Oil on canvas",
+      "dims": "75.9 × 66.7 cm",
+      "where": "Yale Center for British Art, New Haven",
+      "credit": "Yale Center for British Art, Paul Mellon Collection, B1977.14.55",
+      "image": "https://images.collections.yale.edu/iiif/2/ycba:5079467c-b7ec-4c36-8d7c-aa9ec09b1591/full/1400,/0/default.jpg",
+      "text": [
+        "Her name is lost. For most of the last century she was catalogued as Girl with a Book Seated in a Park, which describes the picture and nothing else: a young woman in blue silk, a book open on her lap, a park behind her that is really Suffolk. Painted around 1750, when Gainsborough was in his early twenties and still the best-kept secret in Sudbury."
+      ]
+    },
+    {
+      "slug": "mary-heberden",
+      "title": "Mary Heberden",
+      "date": "c. 1777",
+      "medium": "Oil on canvas",
+      "dims": "73 × 62.2 cm",
+      "where": "Yale Center for British Art, New Haven",
+      "credit": "Yale Center for British Art, Paul Mellon Collection, B1981.25.299",
+      "image": "https://images.collections.yale.edu/iiif/2/ycba:c4415f0d-a83d-439d-8024-c335ebf36655/full/1400,/0/default.jpg",
+      "text": [
+        "About sixteen, in pearls, in an oval, painted in the Pall Mall years when Gainsborough's sitters were the court and the ton. The collection records her as Mary Heberden, 1761–1832 — most likely a daughter of the physician William Heberden, though the record does not say so. What it does show is the feathery, almost unfinished touch of his late portraits, the paint laid on so thinly the canvas breathes through it."
+      ]
+    }
+  ],
+  "sources": [
+    {"label": "Yale Center for British Art — Landscape with Milkmaid (B1981.25.292)", "url": "https://manifests.collections.yale.edu/ycba/obj/787"},
+    {"label": "Yale Center for British Art — Landscape with Cattle (B1981.25.305)", "url": "https://collections.britishart.yale.edu/catalog/tms:5029"},
+    {"label": "Yale Center for British Art — essay on Landscape with Cattle", "url": "https://britishart.yale.edu/thomas-gainsborough-landscape-cattle"},
+    {"label": "Yale Center for British Art — Mountain Valley with Figures (B1981.25.295)", "url": "https://collections.britishart.yale.edu/catalog/tms:790"},
+    {"label": "Yale Center for British Art — An Unknown Woman (B1977.14.55)", "url": "https://collections.britishart.yale.edu/catalog/tms:405"},
+    {"label": "Yale Center for British Art — Mary Heberden (B1981.25.299)", "url": "https://collections.britishart.yale.edu/catalog/tms:794"},
+    {"label": "Royal Academy — Thomas Gainsborough RA", "url": "https://www.royalacademy.org.uk/art-artists/name/thomas-gainsborough-ra"},
+    {"label": "Royal Collection Trust — The Three Eldest Princesses and the 1784 dispute", "url": "https://col.rct.uk/collection/400206/"}
+  ]
+}
